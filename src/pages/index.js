@@ -8,7 +8,7 @@ const IndexPage = () => {
     <Layout pageTitle="Home Page">
       <StaticImage
         alt="Turf Perfect Charleston Logo"
-        src="../images/logo.jpeg"
+        src="../images/logo.png"
       />
       <p>Welcome to Turf Perfect Charleston!</p>
       <p>We are the premier turf integrator in the Lowcountry!</p>
